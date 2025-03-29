@@ -16,7 +16,7 @@ theme = 'not-much'
 [params]
 theme = "dark"
 palette = "catpuccin"
-showThemeNotice = true
+showThemeNotice = false 
 showPostsSummary = true
 
 # Navigation
@@ -46,5 +46,5 @@ showPostsSummary = true
     identifier = "github"
     name = "github"
     title = "GitHub"
-    url = "https://github.com/imgios/not-much"
+    url = "https://github.com/al-vy"
     weight = 4
